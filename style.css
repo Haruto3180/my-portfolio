@@ -105,10 +105,6 @@ h1 {
 }
 
 .container {
-  background-color: palevioletred;
-}
-
-.container {
   width: 20%;
   display: flex;
   justify-content: space-between;
@@ -121,14 +117,4 @@ h1 {
   margin: 0;
   padding: 0;
   background-color: rgb(242, 152, 250);
-}
-
-.twitter {
-  color: #55acee;
-  background-color: white;
-}
-
-.insta {
-  color: magenta;
-  background-color: white;
 }
